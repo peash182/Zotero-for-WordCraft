@@ -64,3 +64,6 @@ node test/protocol.test.js
 - A settings pane instead of the Config Editor
 
 Feedback and pull requests are welcome.
+
+## Discussion and feedback:
+- https://www.researchgate.net/post/Do_you_want_to_cite_from_Zotero_while_writing_in_an_open-source_word_processor_WordCraft_I_built_an_add-on_and_need_testers
